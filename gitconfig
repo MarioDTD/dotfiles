@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = msjdtd@gmail.com
+	name = Mario Stefan Juhari
